@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamgovindsingh" target="blank"><img src="https://img.shields.io/twitter/follow/iamgovindsingh?logo=twitter&style=for-the-badge" alt="iamgovindsingh" /></a> </p>
 
-- 🌱 I’m currently learning **Python and JAVA**
+- 🌱 I’m currently learning **Cloud Computing and Machine Learning**
 
 - 👯 I’m looking to collaborate on **some new projects based on JavaScript Libraries**
 
