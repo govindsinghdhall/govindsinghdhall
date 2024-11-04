@@ -8,17 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/iamgovindsingh" target="blank"><img src="https://img.shields.io/twitter/follow/iamgovindsingh?logo=twitter&style=for-the-badge" alt="iamgovindsingh" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing and Machine Learning**
+- 🌱 I’m currently learning **Project Management**
+- 🥦 I have recently learned **Cloud Computing and Machine Learning**
 
 - 👯 I’m looking to collaborate on **some new projects based on JavaScript Libraries**
-
-- 👨‍💻 All of my projects are available at [govindsinghdhall.com](govindsinghdhall.com)
 
 - 💬 Ask me about **MERN and Angular**
 
 - 📫 How to reach me **govindsinghdhall@gmail.com**
-
-- 📄 Know about my experiences [govindsinghdhall.com](govindsinghdhall.com)
 
 - ⚡ Fun fact **I think I am Funny.**
 
