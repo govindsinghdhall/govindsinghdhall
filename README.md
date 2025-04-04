@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **govindsinghdhall@gmail.com**
 
-- 📄 Know about my experiences [govindsinghdhall.github.io](govindsinghdhall.github.io)
+- 📄 Know about my experiences [govindsinghdhall.github.io](https://govindsinghdhall.github.io)
 
 - ⚡ Fun fact **I love travelling**
 
