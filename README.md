@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **AI and ML**
 
-- 👨‍💻 All of my projects are available at [govindsinghdhall.github.io](govindsinghdhall.github.io)
+- 👨‍💻 All of my projects are available at [govindsinghdhall.github.io](www.govindsinghdhall.github.io)
 
 - 💬 Ask me about **react, node and microservices**
 
